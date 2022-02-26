@@ -1,9 +1,0 @@
-LoFreq.somatic_final.snvs.vcf	lofreq
-MuTect2.vcf	mutect2
-scalpel_combined.vcf	scalpel
-SomaticSniper.vcf	somatic-sniper
-strelka_somatic.snvs.vcf	strelka
-VarDict_split.vcf	vardict
-varscan_SNVs_backup.basename.snp.sorted2.vcf	varscan-somatic
-NeuSomatic_standalone.vcf	neusomatic-standalone
-SSeq.Classified.sSNV.vcf	somaticseq
