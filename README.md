@@ -37,4 +37,4 @@ The `neusomatic_latest.sif` singularity image can also be found at the linked re
 
 Pileup analysis
 ===============
-![Image](pilup_workflow.png) 
+![Image](https://github.com/max-vdL/Ramos_WGS_MasterThesis/blob/main/pileup_workflow.png) 
